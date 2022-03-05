@@ -10,3 +10,5 @@ var favouriteNumber = 9
 
 print("السلام عليكم معاكم \(name) و رقمي المفضل هو \(favouriteNumber) و احب \(hobby)")
 
+print("ing = 9")
+print("double = 9.11")
